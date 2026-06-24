@@ -3,7 +3,7 @@
 // The big red "1234" remains visible at all times.
 
 (function () {
-  const START_SECONDS = 10;
+  const START_SECONDS = 15;
   let remaining = START_SECONDS;
 
   const countdownEl = document.getElementById('countdown');
